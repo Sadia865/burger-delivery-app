@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/burger-delivery-app/static/css/main.7814fed1.css",
-    "main.js": "/burger-delivery-app/static/js/main.d680bb6b.js",
+    "main.js": "/burger-delivery-app/static/js/main.5b6ce1d4.js",
     "static/js/453.6d39918f.chunk.js": "/burger-delivery-app/static/js/453.6d39918f.chunk.js",
     "static/media/hero-2.png": "/burger-delivery-app/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
     "static/media/bg.jpg": "/burger-delivery-app/static/media/bg.ac5237841ce77dfce589.jpg",
@@ -37,11 +37,11 @@
     "static/media/brand-16.png": "/burger-delivery-app/static/media/brand-16.39e872b117651240bc57.png",
     "index.html": "/burger-delivery-app/index.html",
     "main.7814fed1.css.map": "/burger-delivery-app/static/css/main.7814fed1.css.map",
-    "main.d680bb6b.js.map": "/burger-delivery-app/static/js/main.d680bb6b.js.map",
+    "main.5b6ce1d4.js.map": "/burger-delivery-app/static/js/main.5b6ce1d4.js.map",
     "453.6d39918f.chunk.js.map": "/burger-delivery-app/static/js/453.6d39918f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7814fed1.css",
-    "static/js/main.d680bb6b.js"
+    "static/js/main.5b6ce1d4.js"
   ]
 }
